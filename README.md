@@ -15,6 +15,9 @@ team consists of a manager, and any number of engineers and interns.
 
 ## Demo
 
+![Team Profile Generator](https://user-images.githubusercontent.com/70453836/115099233-97c5b680-9f02-11eb-924f-c8282c73fc8c.gif)
+
+
 ## Technologies Used
 HTML
 Node JS
